@@ -1,7 +1,7 @@
 <p align="center"><img src="https://nsa40.casimages.com/img/2020/10/31/201031104625188615.png" alt="Noctiluce" width="100%" /></p>
-# 👋 Hi, I'm Noctiluce (Félix)!
+# Hi, I'm Noctiluce (Félix)!
 
-Welcome to my GitHub profile! I'm passionate about computer science, game engine development and advanced rendering techniques. Here, you'll find my projects and experiments.
+👋 Welcome to my GitHub profile! I'm passionate about computer science, game engine development and advanced rendering techniques. Here, you'll find my projects and experiments.
 
 ## 🚀 About Me
 
