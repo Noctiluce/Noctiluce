@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Noctiluce/Noctiluce/blob/master/NoctiluceBanniere2.png" alt="Noctiluce" width="100%" /></p>
+<p align="center"><img src="https://github.com/Noctiluce/Noctiluce/blob/master/NoctiluceBanniere2.png" alt="Noctiluce" width="30%" /></p>
 
 ## 👋 Hi, I'm Noctiluce (Félix)!
 
