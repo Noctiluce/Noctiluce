@@ -37,5 +37,5 @@ Feel free to explore my repositories and reach out for collaborations or questio
 🌱 **Always learning & exploring new ways to optimize systems and accelerate ML workflows on GPU.**
 
 
-📫 Contact Me
+📫 Contact Me :
 - **LinkedIn**: [linkedin.com/in/felix-rollet/](https://www.linkedin.com/in/felix-rollet/)
