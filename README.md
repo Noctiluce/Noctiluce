@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/Noctiluce/Noctiluce/blob/master/NoctiluceBanniere2.png" alt="Noctiluce" width="30%" /></p>
 
-# 👋 Hi, I’m Felix Rollet
+# 👋 Hi, I’m Félix Rollet
 
 **C++ Software Engineer | GPU & AI Systems | Real-Time Applications**
 
