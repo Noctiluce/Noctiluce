@@ -11,7 +11,7 @@
 ⚡ Skilled at **profiling, optimizing GPU computations**, and ensuring **latency & determinism** in real-time engines and simulations.  
 💡 Strong foundation in **data structures, algorithms, and system-level considerations** in applied ML.
 
-🔧 **Tech & Tools:** C++, Python, GLSL/HLSL, CUDA, PyTorch, TensorFlow, LLVM/MLIR, Vulkan, DirectX, Linux/Windows  
+🔧 **Tech & Tools:** C++, Python, GLSL/HLSL, CUDA, PyTorch, TensorFlow, Vulkan, DirectX, Linux/Windows  
 
 📂 **Portfolio & Projects:**  
 - GitHub repositories showcasing **GPU experiments, ML pipelines, and real-time simulation tools**  
